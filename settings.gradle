@@ -1,0 +1,2 @@
+include ':app', ':hellocharts-library-1.5.8'
+rootProject.name='GraficoPastel'
